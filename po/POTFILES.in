@@ -1,0 +1,6 @@
+data/org.trutix.Dietty.desktop.in.in
+data/org.trutix.Dietty.gschema.xml.in
+data/org.trutix.Dietty.metainfo.xml.in.in
+data/resources/ui/shortcuts.ui
+src/app.rs
+src/main.rs
